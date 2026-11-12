@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/RutaViva.Api/RutaViva.Api.csproj" />
+    <Project Path="src/RutaViva.Application/RutaViva.Application.csproj" />
+    <Project Path="src/RutaViva.Domain/RutaViva.Domain.csproj" />
+    <Project Path="src/RutaViva.Infrastructure/RutaViva.Infrastructure.csproj" />
+    <Project Path="src/RutaViva.Worker/RutaViva.Worker.csproj" />
+  </Folder>
+  <Folder Name="/test/">
+    <Project Path="test/RutaViva.Test.ArchTest/RutaViva.Test.ArchTest.csproj" />
+    <Project Path="test/RutaViva.Test.IntegrationTest/RutaViva.Test.IntegrationTest.csproj" />
+    <Project Path="test/RutaViva.Test.UnitTest/RutaViva.Test.UnitTest.csproj" />
+  </Folder>
+</Solution>
